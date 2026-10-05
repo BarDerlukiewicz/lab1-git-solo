@@ -3,5 +3,6 @@ node_modules/
 #pliki o danym rozszerzeniu
 *.env
 *.log
+szkic.txt
 
 !wazne.log
