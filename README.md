@@ -5,4 +5,6 @@ trzecia linia
 To JEST BŁĄD
 ## Autor Bartosz Derlukiewicz
 
+dopiska github
+
 koniec
